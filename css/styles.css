@@ -100,13 +100,13 @@ a:hover {
 }
 
 .mobile-img {
-  width: 27%;
-  float: left;
-  margin-right: 30px;
-}
-
-.cloud-computing-img {
   width: 30%;
   float: right;
   margin-left: 30px;
+}
+
+.cloud-computing-img {
+  width: 27%;
+  float: left;
+  margin-right: 30px
 }
