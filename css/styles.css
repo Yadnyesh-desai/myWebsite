@@ -68,13 +68,13 @@ a:hover {
   text-align: left;
 }
 
-.pro {
-  text-decoration: underline;
-}
-
 .intro {
   width: 30%;
   margin: auto;
+}
+
+.pro {
+  text-decoration: underline;
 }
 
 .contact-message {
